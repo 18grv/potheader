@@ -12,6 +12,8 @@ public class NewClass9 {
         }
     
         System.out.println(result);
+System.out.println("hello");
+
     }
     
     

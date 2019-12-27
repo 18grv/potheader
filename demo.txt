@@ -1,0 +1,18 @@
+public class NewClass9 {
+    public static void main(String []args){
+        int n,p,result=1;
+        n=2;
+        p=4;
+        
+        
+        for(;p>=1;p--)
+        {
+            result=result*n;
+                       
+        }
+    
+        System.out.println(result);
+    }
+    
+    
+}
